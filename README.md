@@ -1,8 +1,7 @@
  ## ZipherApp
 แอปสำหรับเชื่อมต่อกับอุปกรณ์ HID ของ ZipherCyprexTM มีฟีเจอร์หลักๆคือการใช้งาน DashBoard ผ่านหน้าแอปโดยตรงและใช้สำหรับ Monitor และ Debug ได้อย่างง่ายดาย, UI/UX ใช้งานง่ายและเป็นมืออาชีพ เหมาะสำหรับทั้งผู้ใช้ทั่วไปและ Professional, รองรับการ Muititask หน้าจอช่วยให้ดูสถานะได้พร้อมกันและง่ายยิ่งขึ้น
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ZipherCyprex/ZipherApp?style=for-the-badge)
-![Repo Views](https://komarev.com/ghpvc/?username=ZipherCyprex&label=Repo%20views&color=blue&style=for-the-badge)
+
 
 
 
