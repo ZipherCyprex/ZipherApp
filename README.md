@@ -42,7 +42,7 @@
 #### Muititask App
 > User สามารถเปิดหลายหน้าจอได้ในเวลาเดียวกันเพื่อ Monitor หลายๆงานพร้อมกัน, โดยที่ PC จะใช้ RAM เพื่มแค่ไม่เกิน 20-60MB ต่อ 1 Task
 
-![image](https://github.com/user-attachments/assets/e15c2dda-ea35-4465-a178-f1a74b4a8478)
+![image](https://github.com/user-attachments/assets/17b13d29-28e6-4415-bd56-23859e568630)
 
 
 --- 
