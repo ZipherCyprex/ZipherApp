@@ -24,9 +24,6 @@ Download: [ZipherApp1.02](https://github.com/ZipherCyprex/ZipherApp/releases/tag
 
 ### Serial Terminal
 > User สามารถดูการทำงานและ Log ได้ผ่าน Serial-Port ได้โดยตรงและยังใช้แบบ Offline ได้ไม่จำเป็นต้องเข้าเว็บเพื่ม
-
-> รองรับ TimeStamp และ AutoScroll
-
 > `ใช้คำสั่ง "help" เพื่อดูคำสั่งก่อนเรื่มใช้งาน`
 
 ![image](https://github.com/user-attachments/assets/4400f203-97a6-4bfc-b5cb-ffb61f40414b)
